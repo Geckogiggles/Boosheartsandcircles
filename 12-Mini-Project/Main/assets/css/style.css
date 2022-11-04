@@ -65,7 +65,7 @@ img {
 }
 
 section {
-  margin-bottom: 0;
+  margin-bottom: 20px;
   padding: 20px 10px 40px 10px;
   border-top: 3px dashed rgb(119, 0, 255);
   background-color:  black;
