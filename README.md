@@ -1,3 +1,5 @@
+
+# Boosheartsandcircles
 # Module 01 Mini-Project: Landing Page
 
 In this mini-project, you will build a landing page using HTML and CSS. While you will be responsible for your own landing page, you will work in a group to brainstorm and share ideas.
@@ -59,7 +61,6 @@ Follow these instructions to deploy your project to GitHub Pages:
 You can also refer to this [YouTube video on enabling GitHub Pages](https://youtu.be/P4Mu1t5rIXg) for more guidance.
 
 > **Important**: It might take a few minutes for GitHub pages to display your site correctly. If your project does not deploy or display correctly, check that all file paths in your application are relative and use the right casing. GitHub is case-sensitive, an inccorect capital or lowercase letter could cause problems in deployment.
-
 ## 💡 Hints
 
 Refer to the documentation:
