@@ -90,7 +90,7 @@ If you have completed this activity, work through the following challenge with y
 Use [Google](https://www.google.com) or another search engine to research this.
 
 Live Deployed Link:
-[live deployed link](https://geckogiggles.github.io/Boosheartsandcircles/)
+[Boos Hearts and Circles Website](https://geckogiggles.github.io/Boosheartsandcircles/)
 
 ---
 
